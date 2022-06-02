@@ -1,4 +1,4 @@
-<h1> Hello Fellow Developers!! <img src = "https://www.qnap.com/solution/koibot/images/koibot_ani1.gif" width = 50px> </h1>
+<h1> Hello Fellow Developers!! <img src = "https://www.qnap.com/solution/koibot/images/koibot_ani1.gif" width = 30px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=knia10.knia10)
@@ -7,9 +7,9 @@
 <div size='20px'> Hi! My name is Estefania. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 90px></h2>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 30px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 - 🔭 I’m currently working on My Holberton projects and in being an excellent software developer.

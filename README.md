@@ -1,4 +1,4 @@
-<h1> Hello Fellow Developers!! <img src = "https://www.qnap.com/solution/koibot/images/koibot_ani1.gif" width = 30px> </h1>
+<h1> Hello Fellow Developers!! <img src = "https://www.qnap.com/solution/koibot/images/koibot_ani1.gif" width = 10px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=knia10.knia10)

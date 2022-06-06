@@ -9,7 +9,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 8%></h2>
 
-<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
 
 
 - 🔭 I’m currently working on My Holberton projects and in being an excellent software developer.
@@ -20,7 +20,7 @@
 
 - 💬 Talk to me about Python, JavaScript, C, Freelancing Opportunites, Open Source. 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/H6nUFMV3S7MjSN2YxM/200w.gif" width = 60px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/H6nUFMV3S7MjSN2YxM/200w.gif" width = 10%> </h2>
 <a href= https://github.com/knia10?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/knia10?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/knia10?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
@@ -29,7 +29,7 @@
 <a href= https://github.com/knia10?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
 
 
-<h2> Connect with me <img src='https://media2.giphy.com/media/uMN4TrmpHbkYmrzgok/200w.gif?cid=82a1493b7ufxek83uazbo7pt5y7twjto7yun19qo2kkz0k5o&rid=200w.gif&ct=g' width="100px"> </h2>
+<h2> Connect with me <img src='https://media2.giphy.com/media/uMN4TrmpHbkYmrzgok/200w.gif?cid=82a1493b7ufxek83uazbo7pt5y7twjto7yun19qo2kkz0k5o&rid=200w.gif&ct=g' width="10%"> </h2>
 <a href = 'https://www.linkedin.com/in/Estefania Ruiz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/@Nia_Ruiz10'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/knia10'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
